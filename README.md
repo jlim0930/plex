@@ -1,5 +1,15 @@
 # PLEX
 
+## plexdo.sh
+
+A script to place into cron to run once or twice a day to update/scan the library and empty trash.
+
+
+
+
+# ALL of the following were moved to OLD
+
+
 The following are my scripts for my linux based PLEX server for daily cleanup and updates.
 
 ## autooptimize.sh
